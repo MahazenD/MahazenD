@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahasen B. Dasanayake </h1>
-<h3 align="center">I am a Computer Science student with a strong foundation in programming and web development.I am skilled in Java, Python, HTML, CSS, and PHP, and I have a deep interest in Data Science, particularly in exploring data analysis, machine learning, and predictive modeling. In addition to my technical skills, I also have experience in graphic design, using Photoshop and Illustrator to create visually engaging designs. I am constantly learning and seeking opportunities to work on innovative projects that challenge me and help me grow as a developer.</h3>
+<h3 align="center">I am a Computer Science student with a strong foundation in programming and web development.I am skilled in Java, Python, HTML, CSS, and PHP, and I have a deep interest in Data Science, particularly in exploring data analysis, machine learning, and predictive modeling. In addition to my technical skills, I also have experience in graphic design, using Photoshop and Illustrator to create visually engaging designs.I am constantly learning and seeking opportunities to work on innovative projects that challenge me and help me grow as a developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahazend&label=Profile%20views&color=0e75b6&style=flat" alt="mahazend" /> </p>
 
