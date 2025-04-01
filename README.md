@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahazend&label=Profile%20views&color=0e75b6&style=flat" alt="mahazend" /> </p>
 
-- 🌱 I’m currently learning **python, Java, Machine Learn**
+- 🌱 I’m currently learning **python, Java, Machine Learning**
 
 - 📫 How to reach me **Mahasendasanayake100@gmail.com**
 
